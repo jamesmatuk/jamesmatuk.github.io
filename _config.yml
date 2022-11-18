@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: James Matuk
 description: Postdoctoral Associate, <br> Department of Statistical Science, <br> Duke University
-logo: jamesmatuk.github.io/files/matuk_photo.png
+logo: /files/matuk_photo.png
 show_downloads: false
 google_analytics: UA-239238149-1
