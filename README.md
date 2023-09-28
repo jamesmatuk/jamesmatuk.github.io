@@ -1,4 +1,4 @@
-I am a Data Scientist at the University of Pittsburgh. My current role is to provide statistical expertise for various research projects in the [Epidemiology Data Center](https://www.edc.pitt.edu/).
+I am a Data Scientist at the [University of Pittsburgh](https://www.pitt.edu/). My current role is to provide statistical expertise for various research projects in the [Epidemiology Data Center](https://www.edc.pitt.edu/).
 
 My research interests include longitudinal data analysis, statistical shape analysis, and Bayesian modeling. 
 
